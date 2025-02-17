@@ -2,6 +2,7 @@ Olá, me chamo Cruz Neto 🖐️
 
 Tenho atualmente 31 anos.
 Sou formado em Engenharia Civil e estou cursando Engenharia de Software.
+Estou atualmente em busca de estágio ou emprego, caso tenha alguma vaga disponivel entre em contato através do whatsapp!
 
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cruzneto)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-jos%C3%A9-da-cruz-soares-81a244144/)
